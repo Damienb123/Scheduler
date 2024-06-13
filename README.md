@@ -1,19 +1,19 @@
 # Scheduler
 
 ## Table Contents
-1. Overview
-2. Features
-3. Getting Started
+1. [Overview](#Overview)
+2. [Features](#Features)
+3. [Getting Started](#Getting-Started)
    - Prerequisites
    - Installation
-6. Project Structure
-7. Usage
+6. [Project Structure](#Project-Structure)
+7. [Usage](#Usage)
    - FIFO Scheduling
    - SJF Scheduling
    - Round Robin Scheduling
-9. Example Output
-10. Contributing
-11. Acknowledgments
+9. [Example Output](#Example-Output)
+10. [Contributing](#Contributing)
+11. [Acknowledgments](#Acknowledgments)
 
 # Overview
 - Simulated Round Robin, FIFO, SJF, and uni-programming operating system scheduling algorithm in Java.
@@ -94,6 +94,6 @@ Executing Task 3 for 2 units; task completed.
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas or report bugs.
 
-## Acknowledgements
+## Acknowledgments
 - The scheduling algorithms are inspired by classic operating system textbooks and resources.
 - Special thanks to the open-source community for providing valuable tools and libraries.
